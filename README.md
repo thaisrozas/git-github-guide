@@ -1,2 +1,2 @@
-# 7 Days of Code
-Repository dedicated to my personal projects in 7 Days of Code challenges.
+# Manual de Git e GitHub
+Repository dedicated to my personal projects about Git and GitHub.
