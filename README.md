@@ -1,2 +1,2 @@
-# 7-days-of-code
+# 7 Days of Code
 Repository dedicated to my personal projects in 7 Days of Code challenges.
